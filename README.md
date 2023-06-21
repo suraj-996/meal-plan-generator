@@ -1,5 +1,9 @@
-# meal-plan-generator
+# Meal Plan Generator
+
+##Checkout the project using this link
+
 https://suraj-996.github.io/meal-plan-generator
+
 ## First you need to fill the details
 ![img](https://github.com/suraj-996/meal-plan-generator/blob/main/image/meal-plan.png)
 
